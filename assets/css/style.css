@@ -865,16 +865,19 @@ section {
 .links-view{
   text-align: center;
 }
-.btn-primary{
+.btn-suc{
   border-radius: 50px;
+  background-color: #fa3605;
+  color: #ffff;
 }
 .links-view a:hover{
- background-color: #fa3605;
+ background-color: #0fe008;
+ color: #ffff;
   
 }
 .contact .info .social-links a:hover {
   background: #149ddd;
-  color: rgb(45, 245, 6);
+  color: rgb(10, 231, 10);
 }
 
 .contact .info .social-links span:hover {
